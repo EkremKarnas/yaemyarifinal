@@ -1,0 +1,17 @@
+{
+"companyName": "EkoSoft",
+"productName": "Bitirme-Lojistik",
+"productVersion": "0.1",
+"dataUrl": "yaem2021build.data.unityweb",
+"asmCodeUrl": "yaem2021build.asm.code.unityweb",
+"asmMemoryUrl": "yaem2021build.asm.memory.unityweb",
+"asmFrameworkUrl": "yaem2021build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
